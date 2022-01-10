@@ -9,4 +9,4 @@
 
 * It's done when the form can be submitted and the value in the input field is captured and printed to the page as a list item.
 
-* It's done when the form's input field is cleared upon a successful submissio
+* It's done when the form's input field is cleared upon a successful submission
